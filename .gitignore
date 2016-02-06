@@ -1,0 +1,8 @@
+*idea
+node_modules
+instagram-params.json
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+npm-debug.log
